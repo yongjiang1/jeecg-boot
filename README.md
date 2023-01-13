@@ -4,6 +4,7 @@
 
 
 whitelist
+blacklist
 
 JEECG BOOT 低代码开发平台
 ===============
